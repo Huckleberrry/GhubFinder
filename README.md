@@ -95,7 +95,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Contact
 
 For any questions or feedback, please open an issue on GitHub or contact me at [your email].
-
----
-
-Feel free to customize this template further based on the specifics of your project. Let me know if you need any changes or additional sections!
